@@ -1,5 +1,5 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+EL+HADDOUMI+Mohammed;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
-# Hi I'm Lordwill.👋
+# Hi I'm EL HADDOUMI.👋
 
 ### I am a Software Engineering student at ALX. `I learn by doing....`
 
@@ -24,8 +24,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elhaddoumi1999&show_icons=true&theme=radical)
 
-<h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/lordwill"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
-![image](https://user-images.githubusercontent.com/105258746/188775779-6bbc07c8-df8d-4a80-839b-674ea51c5adc.png)
 
