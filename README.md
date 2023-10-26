@@ -11,7 +11,7 @@
 * [Twitter](https://twitter.com/elhaddoumi99)
 * [Email](mailto:elhaddoumi99@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elhaddoumi1999&layout=compact)](https://github.com/elhaddoumi1999/github-readme-stats)
 
 ## QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
